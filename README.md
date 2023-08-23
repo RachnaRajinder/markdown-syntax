@@ -1,4 +1,4 @@
-# First Heading 
+# First Heading :blush:
 ## Second Heading
 ### Third Heading
 
@@ -6,7 +6,7 @@
    __
 
 ## Emphasis
-*This text will be italic*
+*This text will be italic* :point_left:
 
 _This will also be italic_
 
